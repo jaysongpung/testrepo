@@ -6,6 +6,5 @@ export default defineConfig({
         port: 5173,
         open: true,
         strictPort: true
-    },
-    base: '/testrepo/'
+    }
 });
